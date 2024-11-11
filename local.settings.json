@@ -1,0 +1,14 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=vmhollygroupa19c;AccountKey=fnuzUPpf8a5FxK/tmrjVWs9muZV0LFR1odi7HZl/L/42e9Oe8TP1+Qtn0i7+avB0tgSM8jSbZVB++AStRiQrPA==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "FUNCTIONS_EXTENSION_VERSION": "~4",
+    "APPLICATIONINSIGHTS_CONNECTION_STRING": "InstrumentationKey=1853ee72-4d22-4b17-a055-f22003e85165;IngestionEndpoint=https://uksouth-1.in.applicationinsights.azure.com/;LiveEndpoint=https://uksouth.livediagnostics.monitor.azure.com/;ApplicationId=c83bcc04-394c-4b3a-b609-a0ac28fe9192",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=vmhollygroupa19c;AccountKey=fnuzUPpf8a5FxK/tmrjVWs9muZV0LFR1odi7HZl/L/42e9Oe8TP1+Qtn0i7+avB0tgSM8jSbZVB++AStRiQrPA==;EndpointSuffix=core.windows.net",
+    "WEBSITE_CONTENTSHARE": "vat-calc9aed",
+    "Doc_Intel_Key": "C5RcRp8LrBfDVTztJ4wuNuo8zU9laDnczyZt9mCzAd7vKRnDkGewJQQJ99AKACmepeSXJ3w3AAALACOGOmZL",
+    "SQL_Connection_String": "Driver={ODBC Driver 18 for SQL Server};Server=tcp:dbholly.database.windows.net,1433;Database=DBHolly;Uid=DBHolly-admin;Pwd=DistSys!24;Encrypt=yes;TrustServerCertificate=no;Connection Timeout=30;",
+    "blob_Connection_String": "DefaultEndpointsProtocol=https;AccountName=vmhollygroupa19c;AccountKey=fnuzUPpf8a5FxK/tmrjVWs9muZV0LFR1odi7HZl/L/42e9Oe8TP1+Qtn0i7+avB0tgSM8jSbZVB++AStRiQrPA==;EndpointSuffix=core.windows.net"
+  }
+}
